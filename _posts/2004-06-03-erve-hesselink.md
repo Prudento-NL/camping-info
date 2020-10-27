@@ -11,7 +11,7 @@ Winterswijk - Huppel
 Achterhoek - Gelderland  
 Nederland  
 
-Periode: 03-06-2004 t/m 07-06-2004
+Periode: donderdag 03-06-2004 t/m maandag 07-06-2004
 
 ## Linken
 [Website camping](https://www.ervehesselink.nl/)  

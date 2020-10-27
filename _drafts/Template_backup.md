@@ -11,7 +11,9 @@ PLAATS
 PROVINCIE/DEPARTEMENT  
 LAND  
 
-Periode: dd-mm-jjjj t/m dd-mm-jjjj
+Periode: weekdag dd-mm-jjjj t/m weekdag dd-mm-jjjj  
+
+***Update:*** *ZET HIER JE TEKST MET EVENTUEEL EEN LINK.*
 
 ## Linken
 [Website camping](HIER DE LINK)  
