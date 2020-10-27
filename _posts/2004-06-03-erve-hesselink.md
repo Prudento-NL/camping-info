@@ -26,7 +26,7 @@ De camping ligt ongeveer 4 km van Winterswijk langs een rustig landweggetje op 4
 De tweede en de derde dag regen. De rest van de dagen mooi en zonnig weer. Wel erg koude nachten en slapen met de kachel aan.
 
 ### Uitrusting
-Tent: Karsten 3,25  
+Tent: Karsten 325  
 Auto: Ford Mondeo
 
 ### Foto's
