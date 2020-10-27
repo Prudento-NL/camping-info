@@ -1,13 +1,13 @@
 # basic options
-title: Vakantie MAAND JAAR - BESTEMMING
+title: Info campings
 author: Kees
-description: Blog van de vakantie van MAAND JAAR
+description: Informatie over campings waar we overnacht hebben
 
 # URL to GitHub repo
-URL: "https://github.com/Prudento-NL/template-vakantie-blog.git"
+URL: "https://github.com/Prudento-NL/camping-info.git"
 
 # URL to images folder at GitHub repo LET OP het format van de link met de PUNT!
-images: "https://prudento-nl.github.io/template-vakantie-blog/images"
+images: "https://prudento-nl.github.io/camping-info/images"
 
 # Build settings
 markdown: kramdown

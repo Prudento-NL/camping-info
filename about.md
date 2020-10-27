@@ -4,12 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Deze site is speciaal aangemaakt om verslag te kunnen doen van de vakantie ...... toevoegen LAND MET LINK [LAND](LINK).  
-
-Plaats: [PLAATS](LINK)  
-Hotel: [HOTEL](LINK)  
-Camping: [CAMPING](LINK)
-
-**Uitrusting:**
-- Tent: Karsten 300 of Carp 220
-- Auto: Subaru XV
+In dit deel wordt informatie gezet van de campings waar we overnacht hebben.
+De camping met locatie, de periode dat we er geweest zijn, een korte omschrijving van het verblijf, natuurlijk iets over het weer en tenslotte info over de uitrusting.
