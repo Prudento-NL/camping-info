@@ -4,7 +4,10 @@ author: Kees
 description: Informatie over campings waar we overnacht hebben
 
 # URL to GitHub repo
-URL: "https://github.com/Prudento-NL/camping-info.git"
+baseurl: "/camping-info" 
+url: "https://prudento-nl.github.io"
+
+#URL: "https://github.com/Prudento-NL/camping-info.git"
 
 # URL to images folder at GitHub repo LET OP het format van de link met de PUNT!
 images: "https://prudento-nl.github.io/camping-info/images"
