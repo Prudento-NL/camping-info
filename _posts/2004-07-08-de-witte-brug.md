@@ -37,4 +37,10 @@ Tent: Karsten 325
 Auto: Ford Mondeo
 
 ### Foto's
-![Beschrijving van het plaatje]({{ site.images }}/filenaam.jpg?raw=true)
+![Camping 1]({{ site.images }}/2004-07-witte-brug-camping-1.jpg?raw=true)
+
+![Camping 2]({{ site.images }}/2004-07-witte-brug-camping-2.jpg?raw=true)
+
+![Tent 1]({{ site.images }}/2004-07-witte-brug-tent-1.jpg?raw=true)
+
+![Tent 2]({{ site.images }}/2004-07-witte-brug-tent-2.jpg?raw=true)
