@@ -38,10 +38,10 @@ Tent: Karsten 325
 Auto: Ford Mondeo
 
 ### Foto's
-![Camping 1]({{ site.images }}/2005-06-Woltzdal-camping_1.jpg?raw=true)
+![Camping 1]({{ site.images }}/2005-06-Woltzdal-camping-1.jpg?raw=true)
 
-![Camping 2]({{ site.images }}/2005-06-Woltzdal-camping_2.jpg?raw=true)
+![Camping 2]({{ site.images }}/2005-06-Woltzdal-camping-2.jpg?raw=true)
 
-![Tent 1]({{ site.images }}/2005-06-Woltzdal-tent_1.jpg?raw=true)
+![Tent 1]({{ site.images }}/2005-06-Woltzdal-tent-1.jpg?raw=true)
 
-![Tent 2]({{ site.images }}/2005-06-Woltzdal-tent_2.jpg?raw=true)
+![Tent 2]({{ site.images }}/2005-06-Woltzdal-tent-2.jpg?raw=true)
