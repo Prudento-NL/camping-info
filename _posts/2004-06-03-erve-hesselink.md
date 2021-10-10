@@ -30,4 +30,7 @@ Tent: Karsten 325
 Auto: Ford Mondeo
 
 ### Foto's
-![Beschrijving van het plaatje]({{ site.images }}/filenaam.jpg?raw=true)
+![Camping]({{ site.images }}/2004-06-hesselink-camping.jpg?raw=true)
+
+
+![Tent]({{ site.images }}/2004-06-hesselink-tent.jpg?raw=true)
